@@ -1,13 +1,23 @@
+aid: acknowledgments-md
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/acknowledgments-md/refs/heads/main/apis.yml
 name: ACKNOWLEDGMENTS.md
-description: File crediting third-party software, libraries, inspirations, and other
-  works that the project builds upon or is indebted to.
-url: ''
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Documentation
-- Attribution
-- Licensing
-- Repository
-created: '2025'
-modified: '2025'
+  - Documentation
+  - Attribution
+  - Licensing
+  - Repository
+description: >-
+  An ACKNOWLEDGMENTS.md file credits third-party software, libraries,
+  inspirations, and other works that the project builds upon or is indebted to.
+  It is a common convention in open source repositories for documenting
+  attribution and provenance.
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
