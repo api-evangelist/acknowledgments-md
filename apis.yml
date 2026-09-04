@@ -2,6 +2,7 @@ aid: acknowledgments-md
 url: >-
   https://raw.githubusercontent.com/api-evangelist/acknowledgments-md/refs/heads/main/apis.yml
 name: ACKNOWLEDGMENTS.md
+x-type: convention
 type: Index
 deliveryModel:
   model: unknown
