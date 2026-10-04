@@ -31,7 +31,7 @@ tags:
   - Attribution
   - Documentation
   - Licensing
-  - Open-Source
+  - Open Source
   - Repository
   - Standards
 tags_raw:
@@ -41,6 +41,7 @@ tags_raw:
   - Open Source
   - Repository
   - Standards
+  - Open-Source
 description: >-
   ACKNOWLEDGMENTS.md is a standardized file convention used in open source
   repositories to credit third-party software, libraries, inspirations, and
